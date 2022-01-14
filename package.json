@@ -1,0 +1,15 @@
+{
+  "name": "rsa-encryption-server",
+  "version": "1.0.0",
+  "description": "rsa encryption server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-chiisen:chiisen/rsa-encryption-server.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
